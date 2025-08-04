@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Blog App</string>
+    <string-array name="user_types">
+        <item>user</item>
+        <item>admin</item>
+    </string-array>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "732208725221",
+    "project_id": "news-blog-app-987cf",
+    "storage_bucket": "news-blog-app-987cf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732208725221:android:3aa5d3feadd5720f83e80c",
+        "android_client_info": {
+          "package_name": "com.v2v.blogapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiYyWgeKzeCoVDXhx7oazGmHJuk7xlcdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
