@@ -17,16 +17,9 @@
 - 🖼 *Image Support*
   - Add cover images to your drafts from gallery or camera
 
-- 📅 *Draft Calendar View*
-  - Visualize which days you've written
-  - Track progress with a calendar journal style
-
 - 🌙 *Modern UI*
   - Beautiful Material Design layout
   - Light and Dark mode support
-
-- 🔐 *Optional Privacy Mode*
-  - Lock app or drafts with a PIN or biometric (optional)
 
 ---
 
