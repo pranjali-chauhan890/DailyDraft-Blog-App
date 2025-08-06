@@ -2,6 +2,8 @@
 
 *DailyDraft* is a minimal, elegant blogging app designed for writers, thinkers, and content creators who want to capture ideas, write journal entries, or publish drafts on the go. Whether you're writing your next blog post, daily diary, or creative story, DailyDraft makes it seamless and enjoyable with its intuitive interface and draft-saving features.
 
+If you like this project, please ⭐ the repository and share it!
+
 ---
 
 ## ✨ Features
@@ -33,8 +35,3 @@
 - *Glide* (for image loading)
 - *DataBinding / ViewBinding*
 
----
-
-## 📸 Screenshots
-
-> (Add screenshots here: Home screen, Draft Editor, Calendar View, Dark Mode, etc.)
